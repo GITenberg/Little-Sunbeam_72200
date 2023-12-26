@@ -1,0 +1,39 @@
+_repo: Little-Sunbeam_72200
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Hughes, Myra Kathleen
+    alias: Hughes, Myra K.
+    birthdate: 1877
+    deathdate: 1918
+    gutenberg_agent_id: '56590'
+    url: http://www.gutenberg.org/2009/agents/56590
+    wikipedia: https://en.wikipedia.org/wiki/Myra_Kathleen_Hughes
+creator:
+  author:
+    agent_name: Stooke, Eleanora H.
+    alias: Stooke, E. H.
+    gutenberg_agent_id: '55669'
+    url: http://www.gutenberg.org/2009/agents/55669
+description: ''
+gutenberg_issued: '2023-11-22'
+identifiers:
+  gutenberg: '72200'
+language: en
+pgterms:marc905: 20231120112506stooke
+pgterms:marc906: '1905'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bNational Society''s Depository, $c1905.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Aunts -- Juvenile fiction'
+- !lcsh 'Families -- Juvenile fiction'
+- !lcsh 'Blind children -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Little Sunbeam
+url: http://www.gutenberg.org/ebooks/72200
