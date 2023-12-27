@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '56590'
     url: http://www.gutenberg.org/2009/agents/56590
     wikipedia: https://en.wikipedia.org/wiki/Myra_Kathleen_Hughes
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stooke, Eleanora H.
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '55669'
     url: http://www.gutenberg.org/2009/agents/55669
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72200#Little-Sunbeam
 gutenberg_issued: '2023-11-22'
 identifiers:
   gutenberg: '72200'
